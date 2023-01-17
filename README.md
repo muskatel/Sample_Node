@@ -18,3 +18,12 @@ To run this application, you will need to have Node.js and npm (Node Package Man
 - [Express.js](https://expressjs.com/) - Web application framework for Node.js
 - [HTML](https://www.w3.org/html/) - Markup language for creating web pages
 - [CSS](https://www.w3.org/Style/CSS/)
+- JavaScript
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE.md file for details
+
+## Acknowledgments
+
+    OpenAI for providing the language model used to generate this README.
